@@ -1,9 +1,12 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Spicy+Rice&display=swap');
+</style>
 html {
   font-size: 16px;
 }
 
 body {
-  /* apply body font here */
+  font-family: 'Arial', sans-serif;
   color: #222;
   line-height: 1.5;
 }
@@ -14,8 +17,8 @@ body {
 }
 
 h1, h2 {
-  /* apply heading font here */
-  /* remember to add the font-weight! */
+  font-family: 'Spicy Rice', cursive;
+  font-weight: 900
 }
 
 h2 {
